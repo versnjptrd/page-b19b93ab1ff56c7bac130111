@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://171556.com/sitemap.xml
